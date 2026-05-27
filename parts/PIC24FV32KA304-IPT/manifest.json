@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC24/PIC24FV32KA304-IPT:PIC24FV32KA304-IPT",
+  "name": "PIC24FV32KA304-IPT",
+  "library": "MCU_Microchip_PIC24",
+  "file": "MCU_Microchip_PIC24.kicad_symdir/PIC24FV32KA304-IPT.kicad_sym",
+  "description": "32K Flash, 2048B SRAM, 512B EEPROM, nanoWatt XLP, 12-bit ADC, PWM, RTCC, TQFP44",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/39995d.pdf",
+  "keywords": "Flash-Based 16-Bit Microcontroller",
+  "footprint": "Package_QFP:TQFP-44_10x10mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic24@master/parts/PIC24FV32KA304-IPT/",
+  "part_path": "parts/PIC24FV32KA304-IPT",
+  "symbol_file": "parts/PIC24FV32KA304-IPT/PIC24FV32KA304-IPT.kicad_sym",
+  "source_library": "MCU_Microchip_PIC24.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:47.073Z"
+}

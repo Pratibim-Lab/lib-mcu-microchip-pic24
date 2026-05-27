@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC24/PIC24FJ128GA306-xMR:PIC24FJ128GA306-xMR",
+  "name": "PIC24FJ128GA306-xMR",
+  "library": "MCU_Microchip_PIC24",
+  "file": "MCU_Microchip_PIC24.kicad_symdir/PIC24FJ128GA306-xMR.kicad_sym",
+  "description": "128K Flash, 8KB SRAM, LCD controller, QFN-64",
+  "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/30009996g.pdf",
+  "keywords": "Flash-Based 16-Bit Microcontroller",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP7.15x7.15mm",
+  "extends": "PIC24FJ64GA306-xPT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic24@master/parts/PIC24FJ128GA306-xMR/",
+  "part_path": "parts/PIC24FJ128GA306-xMR",
+  "symbol_file": "parts/PIC24FJ128GA306-xMR/PIC24FJ128GA306-xMR.kicad_sym",
+  "source_library": "MCU_Microchip_PIC24.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:47.052Z"
+}

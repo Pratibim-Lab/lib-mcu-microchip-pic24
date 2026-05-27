@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC24/PIC24FJ256DA210-xPT:PIC24FJ256DA210-xPT",
+  "name": "PIC24FJ256DA210-xPT",
+  "library": "MCU_Microchip_PIC24",
+  "file": "MCU_Microchip_PIC24.kicad_symdir/PIC24FJ256DA210-xPT.kicad_sym",
+  "description": "256K Flash, 96KB SRAM, Graphic controller, USB, TQFP-100",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/39969b.pdf",
+  "keywords": "Flash-Based 16-Bit Microcontroller",
+  "footprint": "Package_QFP:TQFP-100_12x12mm_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic24@master/parts/PIC24FJ256DA210-xPT/",
+  "part_path": "parts/PIC24FJ256DA210-xPT",
+  "symbol_file": "parts/PIC24FJ256DA210-xPT/PIC24FJ256DA210-xPT.kicad_sym",
+  "source_library": "MCU_Microchip_PIC24.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:47.061Z"
+}
